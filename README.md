@@ -2,7 +2,7 @@
 
 A small two-layer linear regulator board that takes a 24 V input on a screw terminal and delivers a fixed 10 V output on a second screw terminal. Built in KiCad 8, fabricated, and hand-assembled during my sophomore year for Texas Guadaloop at UT Austin.
 
-The circuit is deliberately simple. The point of the project was to carry one board through the entire hardware flow: part selection from a manufacturer datasheet, schematic capture, custom symbol and footprint creation, layout, design review with more experienced peers, gerber export, fabrication, assembly, and bring-up, rather than to build something complex. 
+The point of the project was to carry one board through the entire hardware flow: part selection from a manufacturer datasheet, schematic capture, custom symbol and footprint creation, layout, design review with more experienced peers, gerber export, fabrication, assembly, and bring-up, rather than to build something complex. 
 
 This board was used for powering the hyperloop pod's safety lights.
 
